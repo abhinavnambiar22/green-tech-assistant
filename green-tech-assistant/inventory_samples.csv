@@ -1,0 +1,5 @@
+item_name,estimated_count,domain,metadata,created_at
+Coffee Beans,5,Cafe Supplies,"{""brand"": ""GreenRoast"", ""expiration_date"": ""2026-03-25""}",2026-03-15T10:00:00Z
+Laptop,12,IT Equipment,"{""model"": ""MacBook Air"", ""condition"": ""Refurbished""}",2026-03-10T14:30:00Z
+Ethanol,3,Lab Chemicals,"{""purity"": ""95%"", ""expiration_date"": ""2027-01-01""}",2026-03-18T09:15:00Z
+Jacket,20,Clothing Drive,"{""size"": ""L"", ""material"": ""Fleece""}",2026-03-12T11:45:00Z
